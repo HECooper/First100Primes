@@ -6,6 +6,7 @@ to get the first 100 prime numbers you would have to write out the rules of a pr
 
 main: keep increasing numbers, from 1 up, and for each number, check if it is a prime
 if it s prime, print it out
+if we already have 100 primes, end program
 
 prime function: determine if prime
 
